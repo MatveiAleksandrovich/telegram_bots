@@ -1,7 +1,7 @@
 # Telegram_Bots
 Bots with different features and goals. Created to help and simplify your life.
 
-## > ChappieRobot
+- > ChappieRobot
 Bot which helped me with my education in Yandex.Praktikum. It uses Yandex API and Heroku service to work...
 
 ## > CryptoRobot
