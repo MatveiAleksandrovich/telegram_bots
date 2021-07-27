@@ -1,5 +1,5 @@
 # Telegram_Bots
-_Bots with different features and goals. Created to help and simplify your life._
+_Bots with different features and goals. Created to help and simplify your(my) life._
 
 ----
 
