@@ -12,10 +12,17 @@ Artificial intelligence-based telegram bot. The bot that collects relevant data 
   - telegram
   - requests
   - newspaper
-- natural language processing
+- Natural Language Processing
 
 # Strarting project
 1. Clone repository `git clone https://github.com/MatveiAleksandrovich/Telegram_Bots.git`
+2. Open telegram on your phone and get your ID (userinfobot)
+3. Open `News.py` in a code editor
+4. Put your ID into list on 37th line.
+5. Change time when messages come(line 140), by default they will come in 5AM, 15PM, 23PM, 21PM
+6. Find `https://t.me/CryptographyRobot` in Telegram and click `/start`
+7. Run `News.py`
+8. Check your inbox =)
 
 
 ----
