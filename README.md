@@ -24,6 +24,13 @@ Artificial intelligence-based telegram bot. The bot that collects relevant data 
 7. Run `News.py`
 8. Check your inbox =)
 
+### Improvement ideas
+1. Clear code
+2. Documentation
+3. Stock price predictions
+4. Database for adding users
+5. Deploy
+
 
 ----
 
