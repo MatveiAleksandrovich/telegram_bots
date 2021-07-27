@@ -8,10 +8,11 @@ Artificial intelligence-based telegram bot. The bot that collects relevant data 
 
 # Technology
 - Python
-- `telegram` library
+- Libraries
+  - telegram
+  - requests
+  - newspaper
 - natural language processing
-- `requests` library
-- `newspaper` library
 
 # Strarting project
 1. Clone repository `git clone https://github.com/MatveiAleksandrovich/Telegram_Bots.git`
