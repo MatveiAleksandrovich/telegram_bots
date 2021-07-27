@@ -3,7 +3,7 @@ _Bots with different features and goals. Created to help and simplify your(my) l
 
 ----
 
-## News
+## AI based News bot
 Artificial intelligence-based telegram bot. The bot that collects relevant data at the moment with popular API news portals. Artificial intelligence summarizes information, gets the main idea, determines the sentiment of the news, and sends it based on this. It allows you to know what's going on all over the world in just a few seconds. It also quickly and effortlessly keeps you informed of cryptocurrencies.
 
 ### Technology
